@@ -1,0 +1,79 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36" version="29.6.6">
+  <diagram name="Page-1" id="P3Cfph9VexTMHwAZTX-1">
+    <mxGraphModel dx="2239" dy="703" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="6qHbHIv3M5V8mDRCZVue-21" edge="1" parent="1" source="6qHbHIv3M5V8mDRCZVue-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="6qHbHIv3M5V8mDRCZVue-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6qHbHIv3M5V8mDRCZVue-22" edge="1" parent="1" source="6qHbHIv3M5V8mDRCZVue-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="6qHbHIv3M5V8mDRCZVue-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6qHbHIv3M5V8mDRCZVue-1" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="" vertex="1">
+          <mxGeometry height="240" width="240" x="-50" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6qHbHIv3M5V8mDRCZVue-15" edge="1" parent="1" source="6qHbHIv3M5V8mDRCZVue-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" target="6qHbHIv3M5V8mDRCZVue-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6qHbHIv3M5V8mDRCZVue-3" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="" vertex="1">
+          <mxGeometry height="190" width="190" x="540" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="6qHbHIv3M5V8mDRCZVue-16" edge="1" parent="1" source="6qHbHIv3M5V8mDRCZVue-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="6qHbHIv3M5V8mDRCZVue-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6qHbHIv3M5V8mDRCZVue-4" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="" vertex="1">
+          <mxGeometry height="210" width="210" x="-50" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="6qHbHIv3M5V8mDRCZVue-19" edge="1" parent="1" source="6qHbHIv3M5V8mDRCZVue-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="6qHbHIv3M5V8mDRCZVue-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6qHbHIv3M5V8mDRCZVue-5" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="" vertex="1">
+          <mxGeometry height="180" width="180" x="580" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="6qHbHIv3M5V8mDRCZVue-6" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="" vertex="1">
+          <mxGeometry height="140" width="140" x="230" y="182.5" as="geometry" />
+        </mxCell>
+        <mxCell id="6qHbHIv3M5V8mDRCZVue-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="170" width="210" x="290" y="460" as="geometry" />
+        </mxCell>
+        <mxCell id="6qHbHIv3M5V8mDRCZVue-9" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Booking" vertex="1">
+          <mxGeometry height="30" width="60" x="-50" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6qHbHIv3M5V8mDRCZVue-10" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Customer" vertex="1">
+          <mxGeometry height="30" width="60" x="540" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="6qHbHIv3M5V8mDRCZVue-11" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Review" vertex="1">
+          <mxGeometry height="30" width="60" x="230" y="182.5" as="geometry" />
+        </mxCell>
+        <mxCell id="6qHbHIv3M5V8mDRCZVue-12" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Vechile" vertex="1">
+          <mxGeometry height="30" width="60" x="-50" y="285" as="geometry" />
+        </mxCell>
+        <mxCell id="6qHbHIv3M5V8mDRCZVue-13" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Payment" vertex="1">
+          <mxGeometry height="30" width="60" x="290" y="465" as="geometry" />
+        </mxCell>
+        <mxCell id="6qHbHIv3M5V8mDRCZVue-14" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Owner" vertex="1">
+          <mxGeometry height="30" width="60" x="580" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="6qHbHIv3M5V8mDRCZVue-23" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&#xa;&lt;span&gt;booking_id INT (PK)&lt;/span&gt;&lt;br&gt;&lt;span&gt;customer_id INT (FK)&lt;/span&gt;&lt;br&gt;&lt;span&gt;vehicle_id INT (FK)&lt;/span&gt;&lt;br&gt;&lt;span&gt;start_date DATE&lt;/span&gt;&lt;br&gt;&lt;span&gt;end_date DATE&lt;/span&gt;&lt;br&gt;&lt;span&gt;total_cost DECIMAL(10,2)&lt;/span&gt;&lt;br&gt;&lt;span&gt;status ENUM(&#39;Booked&#39;,&#39;Ongoing&#39;,&#39;Completed&#39;,&#39;Cancelled&#39;)&lt;/span&gt;&lt;br&gt;&lt;span&gt;created_at TIMESTAMP&lt;/span&gt;&lt;br&gt;&lt;span&gt;updated_at TIMESTAMP&lt;/span&gt;&#xa;&#xa;" vertex="1">
+          <mxGeometry height="190" width="220" x="-40" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="6qHbHIv3M5V8mDRCZVue-26" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&#xa;&lt;span&gt;customer_id INT (PK)&lt;/span&gt;&lt;br&gt;&lt;span&gt;username VARCHAR(100)&lt;/span&gt;&lt;br&gt;&lt;span&gt;first_name VARCHAR(50)&lt;/span&gt;&lt;br&gt;&lt;span&gt;last_name VARCHAR(50)&lt;/span&gt;&lt;br&gt;&lt;span&gt;email VARCHAR(100)&lt;/span&gt;&lt;br&gt;&lt;span&gt;phone_number VARCHAR(15)&lt;/span&gt;&lt;br&gt;&lt;span&gt;created_at TIMESTAMP&lt;/span&gt;&lt;br&gt;&lt;span&gt;updated_at TIMESTAMP&lt;/span&gt;&#xa;&#xa;" vertex="1">
+          <mxGeometry height="155" width="200" x="530" y="27.5" as="geometry" />
+        </mxCell>
+        <mxCell id="6qHbHIv3M5V8mDRCZVue-27" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&#xa;&lt;span&gt;vehicle_id INT (PK)&lt;/span&gt;&lt;br&gt;&lt;span&gt;owner_id INT (FK)&lt;/span&gt;&lt;br&gt;&lt;span&gt;model VARCHAR(100)&lt;/span&gt;&lt;br&gt;&lt;span&gt;brand VARCHAR(100)&lt;/span&gt;&lt;br&gt;&lt;span&gt;vehicle_type ENUM(&#39;SUV&#39;,&#39;Sedan&#39;,&#39;Hatchback&#39;)&lt;/span&gt;&lt;br&gt;&lt;span&gt;price_per_day DECIMAL(10,2)&lt;/span&gt;&lt;br&gt;&lt;span&gt;availability_status ENUM(&#39;Available&#39;,&#39;Rented&#39;)&lt;/span&gt;&lt;br&gt;&lt;span&gt;created_at TIMESTAMP&lt;/span&gt;&lt;br&gt;&lt;span&gt;updated_at TIMESTAMP&lt;/span&gt;&#xa;&#xa;" vertex="1">
+          <mxGeometry height="180" width="190" x="-50" y="310" as="geometry" />
+        </mxCell>
+        <mxCell id="6qHbHIv3M5V8mDRCZVue-29" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&#xa;&lt;span&gt;owner_id INT (PK)&lt;/span&gt;&lt;br&gt;&lt;span&gt;username VARCHAR(100)&lt;/span&gt;&lt;br&gt;&lt;span&gt;first_name VARCHAR(50)&lt;/span&gt;&lt;br&gt;&lt;span&gt;last_name VARCHAR(50)&lt;/span&gt;&lt;br&gt;&lt;span&gt;email VARCHAR(100)&lt;/span&gt;&lt;br&gt;&lt;span&gt;phone_number VARCHAR(15)&lt;/span&gt;&lt;br&gt;&lt;span&gt;created_at TIMESTAMP&lt;/span&gt;&lt;br&gt;&lt;span&gt;updated_at TIMESTAMP&lt;/span&gt;&#xa;&#xa;" vertex="1">
+          <mxGeometry height="150" width="180" x="580" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="6qHbHIv3M5V8mDRCZVue-30" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&#xa;&lt;span&gt;payment_id INT (PK)&lt;/span&gt;&lt;br&gt;&lt;span&gt;booking_id INT (FK)&lt;/span&gt;&lt;br&gt;&lt;span&gt;amount DECIMAL(10,2)&lt;/span&gt;&lt;br&gt;&lt;span&gt;payment_date DATE&lt;/span&gt;&lt;br&gt;&lt;span&gt;payment_method VARCHAR(50)&lt;/span&gt;&lt;br&gt;&lt;span&gt;status ENUM(&#39;Paid&#39;,&#39;Pending&#39;,&#39;Failed&#39;)&lt;/span&gt;&#xa;&#xa;" vertex="1">
+          <mxGeometry height="120" width="190" x="300" y="500" as="geometry" />
+        </mxCell>
+        <mxCell id="6qHbHIv3M5V8mDRCZVue-32" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&#xa;&lt;span&gt;review_id INT (PK)&lt;/span&gt;&lt;br&gt;&lt;span&gt;booking_id INT (FK)&lt;/span&gt;&lt;br&gt;&lt;span&gt;rating INT&lt;/span&gt;&lt;br&gt;&lt;span&gt;review_text TEXT&lt;/span&gt;&lt;br&gt;&lt;span&gt;created_at TIMESTAMP&lt;/span&gt;&#xa;&#xa;" vertex="1">
+          <mxGeometry height="110" width="140" x="230" y="210" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
